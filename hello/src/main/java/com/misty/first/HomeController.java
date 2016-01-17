@@ -47,6 +47,6 @@ public class HomeController {
         
         model.addAttribute("serverTime", formattedDate );
         
-        return "test";
+        return "job_1";
     }
 }
