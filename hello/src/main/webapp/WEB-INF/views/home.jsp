@@ -13,7 +13,8 @@
 </h1>
 
 <P>  The time on the server is ${serverTime}. </P>
-한글 깨지나?
+
+Test Home A001
 
 <p><img src ="/resources/image/test.JPG" /> </p>
 </body>
